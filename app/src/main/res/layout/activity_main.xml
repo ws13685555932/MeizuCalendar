@@ -7,11 +7,11 @@
     android:orientation="vertical"
     tools:context="com.example.wangsheng.calendar.MainActivity">
 
-    <com.example.wangsheng.calendar.MonthViewPager
+    <com.example.wangsheng.calendar.WeekViewPager
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-    </com.example.wangsheng.calendar.MonthViewPager>
+    </com.example.wangsheng.calendar.WeekViewPager>
 
     <TextView
         android:layout_width="match_parent"
